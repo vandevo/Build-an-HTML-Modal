@@ -13,3 +13,7 @@ html, body {
   max-width: 600px;
   border-radius: 30px;
 }
+
+#overlay {
+    display: none;
+}

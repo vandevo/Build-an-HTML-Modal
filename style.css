@@ -1,6 +1,15 @@
-html {
+html, body {
     font-family: 'Poppins', sans-serif;
     text-align: center;
-    margin: 0 auto;
+    margin: 0;
     padding: 50px;
+}
+
+#modal {
+  background-color: azure;
+  padding: 20px;
+  height: 200px;
+  margin: 0 auto;
+  max-width: 600px;
+  border-radius: 30px;
 }
